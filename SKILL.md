@@ -1,12 +1,6 @@
 ---
 name: agent-activation-smoke-test
-description: >
-  Structured pre-flight checklist for verifying a new Paperclip agent or company skill before it goes live.
-  Use this skill whenever you are asked to smoke-test a newly hired or activated agent, run a first-heartbeat
-  verification, confirm an agent's API access is healthy, or sign off on a company skill deployment before it
-  is assigned to production agents. Trigger on any QA issue that mentions "activation", "smoke test",
-  "pre-flight", "first heartbeat", "go-live check", or "skill deployment QA". Also trigger when a
-  newly-hired agent's readiness must be confirmed before the board or manager assigns it real work.
+description: "Structured pre-flight checklist for verifying a new Paperclip agent or company skill before it goes live. Use this skill whenever you are asked to smoke-test a newly hired or activated agent, run a first-heartbeat verification, confirm an agent's API access is healthy, or sign off on a company skill deployment before it is assigned to production agents. Trigger on any QA issue that mentions \"activation\", \"smoke test\", \"pre-flight\", \"first heartbeat\", \"go-live check\", or \"skill deployment QA\". Also trigger when a newly-hired agent's readiness must be confirmed before the board or manager assigns it real work."
 ---
 
 # Agent Activation Smoke Test
